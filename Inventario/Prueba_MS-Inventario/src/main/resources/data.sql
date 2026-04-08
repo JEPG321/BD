@@ -1,0 +1,10 @@
+MERGE INTO inventario KEY (id_producto) VALUES (1, 'Laptop Lenovo', 50);
+MERGE INTO inventario KEY (id_producto) VALUES (2, 'Mouse Logitech', 30);
+MERGE INTO inventario KEY (id_producto) VALUES (3, 'Teclado Mecanico', 75);
+MERGE INTO inventario KEY (id_producto) VALUES (4, 'Monitor Samsung 24', 20);
+MERGE INTO inventario KEY (id_producto) VALUES (5, 'Impresora HP', 100);
+MERGE INTO inventario KEY (id_producto) VALUES (6, 'Disco SSD 1TB', 45);
+MERGE INTO inventario KEY (id_producto) VALUES (7, 'Memoria RAM 16GB', 60);
+MERGE INTO inventario KEY (id_producto) VALUES (8, 'Camara Web HD', 15);
+MERGE INTO inventario KEY (id_producto) VALUES (9, 'Auriculares Bluetooth', 90);
+MERGE INTO inventario KEY (id_producto) VALUES (10, 'Base Enfriadora', 35);
